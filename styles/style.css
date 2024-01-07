@@ -42,6 +42,7 @@ border-radius: 5px;
 font-weight: 600;
 margin-top: 53px;
 border: none;
+color: #FFF;
 
 }
 
@@ -93,8 +94,8 @@ width: 451px;
 .second-section{
 
  margin-top: 200px ;
- margin-left: 120px;
- margin-right: 120px;
+ margin-left: 170px;
+ margin-right: 170px;
 }
 .second-section>h3{
  text-align: center;
@@ -109,4 +110,35 @@ margin-top: 30px;
 display: flex;
 padding: 100px 100px 0px 100px;
 
+}
+
+.call{
+height: 300px;
+margin: 230px 230px 0px 230px;
+background: url(../images/watch.png);
+background-repeat: no-repeat;
+background-position: cover;
+
+}
+
+.call {
+
+ font-size: 40px;
+ font-weight: 700;
+ color: #FFF;
+
+ padding: 59px 0px 0px 64px;
+}
+
+.btn-1{
+
+ width: 160px;
+ height: 64px;
+ background-color: #FFF;
+font-size: 20px ;
+border-radius: 5px;
+font-weight: 600;
+margin-top: 53px;
+border: none;
+color: #F15B22;
 }
