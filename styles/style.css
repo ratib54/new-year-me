@@ -56,6 +56,7 @@ width: 451px;
  display: flex;
  justify-content: space-between;
  padding: 0 206px 0 306px;
+ margin-top: 200px;
 }
 
 .first-title{
@@ -89,3 +90,23 @@ width: 451px;
  margin-top: 8px;
 }
 
+.second-section{
+
+ margin-top: 200px ;
+ margin-left: 120px;
+ margin-right: 120px;
+}
+.second-section>h3{
+ text-align: center;
+font-size: 40px;
+font-weight: 700;
+color: #151414;
+margin-top: 30px;
+}
+
+.content{
+
+display: flex;
+padding: 100px 100px 0px 100px;
+
+}
