@@ -146,3 +146,60 @@ border: none;
 color: #F15B22;
 margin-top: 0;
 }
+
+footer{
+ margin-top: 200px;
+ background-color: black;
+ height: 577px;
+ color: #FFF;
+ display: flex;
+ justify-content: space-between;
+}
+
+.content-5{
+
+ color: #fff;
+padding-top: 130px ;
+padding-left: 230px;
+
+}
+
+.btn-1{
+
+ display:block;
+ margin-top: 16px;
+}
+
+.content-box{
+
+padding-top: 130px ;
+padding-right:229px ;
+
+
+}
+
+input{
+
+ background-color: black;
+ color: white;
+ border: 1px solid white;
+ border-radius: 5px;
+ height: 64px;
+ width:325px ;
+ padding-left: 10px;
+}
+
+.content-5 > h3{
+
+ font-size: 45px;
+
+ font-weight:700 ;
+
+}
+
+.content-5 > p{
+
+ font-size: 16px;
+ font-weight: 400;
+}
+
