@@ -1,5 +1,5 @@
 *{
- margin:auto;
+
  font-family: 'Josefin Sans', sans-serif;
 font-family: 'Work Sans', sans-serif;
 }
@@ -90,6 +90,7 @@ width: 451px;
 
  margin-top: 8px;
 }
+/* section second */
 
 .second-section{
 
@@ -105,13 +106,15 @@ color: #151414;
 margin-top: 30px;
 }
 
+
 .content{
 
 display: flex;
-padding: 100px 100px 0px 100px;
+justify-content: space-between;
+
 
 }
-
+/* last section */
 .call{
 height: 300px;
 margin: 230px 230px 0px 230px;
@@ -127,7 +130,7 @@ background-position: cover;
  font-weight: 700;
  color: #FFF;
 
- padding: 59px 0px 0px 64px;
+ padding: 10px 0px 0px 64px;
 }
 
 .btn-1{
@@ -141,4 +144,5 @@ font-weight: 600;
 margin-top: 53px;
 border: none;
 color: #F15B22;
+margin-top: 0;
 }
